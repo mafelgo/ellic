@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-13T12:04:01.080+08:00
+  initializedAtString: 2020-05-13T10:44:02.825+08:00
+  log:
+  - commitID: f32a332147e4c9011ae5644e3862f932bd627342
+    mergeA: 
+    mergeB: 
+    authorName: mafelgo
+    authorEmail: 1524532320@qq.com
+    commitEmail: 1524532320@qq.com
+    commitName: mafelgo
+    summary: Create text.cpp
+    description: 
+    timeString: 2020-05-10T17:31:32.000+08:00
+    commitTimeString: 2020-05-10T17:31:32.000+08:00
+    changes:
+    - path: text.cpp
+      fullPath: E:\unity3d\project\ellic\text.cpp
+      projectPath: ..\text.cpp
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 8c087911abdd1e50e19f9f05546037b45d903bae
+    mergeA: 
+    mergeB: 
+    authorName: mafelgo
+    authorEmail: 1524532320@qq.com
+    commitEmail: 1524532320@qq.com
+    commitName: mafelgo
+    summary: Initial commit
+    description: 
+    timeString: 2020-05-10T17:25:57.000+08:00
+    commitTimeString: 2020-05-10T17:25:57.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: E:\unity3d\project\ellic\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
