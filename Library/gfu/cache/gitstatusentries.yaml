@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-05-13T12:24:49.212+08:00
+  initializedAtString: 2020-05-13T12:24:41.327+08:00
+  entries:
+  - path: zhanyi\Assets\New Folder.meta
+    fullPath: E:\unity3d\project\ellic\zhanyi\Assets\New Folder.meta
+    projectPath: Assets\New Folder.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: zhanyi\Assets\Scenes\floor1.unity
+    fullPath: E:\unity3d\project\ellic\zhanyi\Assets\Scenes\floor1.unity
+    projectPath: Assets\Scenes\floor1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\ArtifactDB
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\Artifacts\52\52c9a72aa832b9d40f9b52757bc17817
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\Artifacts\52\52c9a72aa832b9d40f9b52757bc17817
+    projectPath: Library\Artifacts\52\52c9a72aa832b9d40f9b52757bc17817
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: zhanyi\Library\Artifacts\ec\ec6fa9cd44f0123e201141ed5a264f52
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\Artifacts\ec\ec6fa9cd44f0123e201141ed5a264f52
+    projectPath: Library\Artifacts\ec\ec6fa9cd44f0123e201141ed5a264f52
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: zhanyi\Library\CurrentLayout-default.dwlt
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\EditorInstance.json
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: zhanyi\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\gfu\cache\gituser.yaml
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\SceneVisibilityState.asset
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\SourceAssetDB
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Library\StateCache\SceneView\b37218-mainStage.json
+    fullPath: E:\unity3d\project\ellic\zhanyi\Library\StateCache\SceneView\b37218-mainStage.json
+    projectPath: Library\StateCache\SceneView\b37218-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: zhanyi\Temp\UnityLockfile
+    fullPath: E:\unity3d\project\ellic\zhanyi\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
